@@ -1,0 +1,6 @@
+{
+  "name": "TAHKIB",
+  "description": "TAHKIB — আরবি ব্যাকরণ, ইলমে সরফ তাহকীক এবং ইলমে নাহু তারকীবের আধুনিক বিশ্লেষণ প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
